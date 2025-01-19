@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/techietandav/Map_app.git/static/css/main.75020e6b.css",
-    "main.js": "/techietandav/Map_app.git/static/js/main.f1d6ea42.js",
-    "static/js/488.e75445ad.chunk.js": "/techietandav/Map_app.git/static/js/488.e75445ad.chunk.js",
-    "index.html": "/techietandav/Map_app.git/index.html",
-    "main.75020e6b.css.map": "/techietandav/Map_app.git/static/css/main.75020e6b.css.map",
-    "main.f1d6ea42.js.map": "/techietandav/Map_app.git/static/js/main.f1d6ea42.js.map",
-    "488.e75445ad.chunk.js.map": "/techietandav/Map_app.git/static/js/488.e75445ad.chunk.js.map"
+    "main.css": "/Map_app.git/static/css/main.75020e6b.css",
+    "main.js": "/Map_app.git/static/js/main.6916a788.js",
+    "static/js/488.e75445ad.chunk.js": "/Map_app.git/static/js/488.e75445ad.chunk.js",
+    "index.html": "/Map_app.git/index.html",
+    "main.75020e6b.css.map": "/Map_app.git/static/css/main.75020e6b.css.map",
+    "main.6916a788.js.map": "/Map_app.git/static/js/main.6916a788.js.map",
+    "488.e75445ad.chunk.js.map": "/Map_app.git/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75020e6b.css",
-    "static/js/main.f1d6ea42.js"
+    "static/js/main.6916a788.js"
   ]
 }
